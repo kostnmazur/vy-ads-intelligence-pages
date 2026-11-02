@@ -1,0 +1,9 @@
+*
+!/.gitignore
+!/.nojekyll
+!/CNAME
+!/README.txt
+!/index.html
+!/privacy.html
+!/terms.html
+!/style.css
